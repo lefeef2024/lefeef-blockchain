@@ -1,0 +1,21 @@
+{
+  "metadata": [
+    {
+      "description": 1,
+      "denom_units": [
+        {
+          "denom": "alef",
+          "exponent": 0
+        },
+        {
+          "denom": "lefeef",
+          "exponent": 18
+        }
+      ],
+      "base": "alef",
+      "display": "alef",
+      "name": "alef",
+      "symbol": "LEFEEF"
+    }
+  ]
+}
